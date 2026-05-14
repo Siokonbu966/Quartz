@@ -24,7 +24,7 @@
               echo "load environment"
               echo "Node: $(node --version)"
             '';
-          }
+          };
         }
       );
 }
